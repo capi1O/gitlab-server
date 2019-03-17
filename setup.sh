@@ -45,7 +45,7 @@ server
 		error_log /var/log/nginx/gitlab-error.log;
 	}
 }
-``` >> ../lets-encrypt/nginx-config.conf
+``` >> ../reverse-proxy/nginx.conf
 
 # run seafile docker and setup database
 
